@@ -18,17 +18,21 @@
 -  Adalah perintah untuk menampilkan hasil yang telah di input dengan ketentuan random uniform mulai dari nilai 0.1 sampai 0.5
 
 ### Berikut gambaran programnya
-![gambar2](ss/ss2.PNG)
+![image](https://user-images.githubusercontent.com/93533137/141808487-020a51d0-373d-4fdd-93be-2ff5e6e5e2bc.png)
+
 
 ### Berikut hasil program yang saya buat
-![gambar3](ss/ss3.PNG)
+!![image](https://user-images.githubusercontent.com/93533137/141808660-90b7c0cf-92ad-4e30-8e1f-0681175c3dbc.png)
+
 ### Latihan 1 selesai
 ==================================================================================================================================================
 # Latihan 2
 ## Membuat Program Untuk Menampilkan Bilangan Terbesar dari n Buah Data yang Diinputkan
 ### Flowchart program
 - Berikut flowchart program menampilkan bilangan terbesar dari n buah data yang diinputkan
-![gambar4](ss/ss4.png)
+![image](https://user-images.githubusercontent.com/93533137/141810616-8c9429cf-69f4-417e-90c0-f061841a244d.png)
+
+
 
 ### Penjelasan alur program
  > print("Menampilkan bilangan terbesar dari n buah data yang diinput") 
@@ -47,17 +51,21 @@
 - Perintah untuk mengakhiri pengulangan, jadi jika menginput nilai 0, maka pengulangan berakhir atau selesai
  > print("bilangan Terbesar adalah: ",max)
 - Adalah perintah untuk menampilkan hasil bilangan yang terbesar dari angka-angka yang telah terinput
-### Berikut gambaran programnya
-![gambar5](ss/ss5.PNG)
+### Berikut gambaran programnya![image](https://user-images.githubusercontent.com/93533137/141810736-43d4a066-582e-4d9e-ae57-d93aebde0d65.png)
+)
+
 ### dan berikut hasil dari program, saat dijalankan
-![gambar6](ss/ss6.PNG)
+!![image](https://user-images.githubusercontent.com/93533137/141810826-8f04eef8-4f4b-46f2-9101-0c86f5a38eb3.png)
+
 ### Latihan 2 selesai
 ==================================================================================================================================================
 # Program 1
 ## Program Untuk Menghitung Laba Investasi
 ### Flowchart program
 - Berikut flowchart dari program menghitung laba investasi
-![gambar7](ss/ss7.png)
+- ![image](https://user-images.githubusercontent.com/93533137/141810916-efb1aaab-b946-44ac-bac1-7e46fabdfc8c.png)
+
+
 ### Penjelasan alur program 
 > print("Laba Investasi")
 - Untuk menampilkan judul
@@ -105,8 +113,10 @@
 - menampilkan hasil dari jumlah laba
 
 ### Berikut gambaran programnya
-![gambar8](ss/ss8.PNG)
+![image](https://user-images.githubusercontent.com/93533137/141811022-7fbb9c7c-2095-4bb7-878f-7720b3e6e777.png)
+
 ### dan berikut hasil dari program setelah dijalankan
-![gambar9](ss/ss9.PNG)
+!![image](https://user-images.githubusercontent.com/93533137/141811072-9bebf01a-ee86-4562-b1ae-5e3d0d700711.png)
+
 ## Program 1 selesai
 # Sekian Trimakasih
